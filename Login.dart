@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:lab9/dashboard.dart';
-import 'package:lab9/forgotpassword.dart';
-import 'package:lab9/signup.dart';
+import 'package:lab9/Dashboard.dart';
+import 'package:lab9/ForgotPassword.dart';
+import 'package:lab9/SignUp.dart';
 
 
 class Login extends StatefulWidget {
